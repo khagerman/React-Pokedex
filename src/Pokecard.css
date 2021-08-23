@@ -1,9 +1,9 @@
 .Pokecard {
-  background: grey;
+  background: gainsboro;
   border-radius: 25px;
-  padding: 20px;
+  margin: 1rem;
   width: 200px;
-  height: 200px;
+  height: 250px;
   text-align: center;
 }
 .Pokecard-title {
